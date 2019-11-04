@@ -1,0 +1,29 @@
+body {
+background-image: url('http://www.handandbeak.com/wp-content/uploads/ab/abstract-technology-background-vector-illustration.jpg');
+    background-position: center;
+  background-size: cover;
+}
+
+.container {
+  display: block;
+  height: 300px;
+  width: 400px;
+  margin: auto;
+  /* background: rgba(255, 255, 255, 0.479); */
+  margin-top:300px;
+  border-radius: 7px solid;
+  border: solid grey 3px;
+  box-shadow:5px 5px 10px 10px black;
+  color: black;
+  text-align: center;
+}
+
+#counter{
+    font-size: 5rem;
+}
+
+button{
+    height: 30px;
+    border-radius: 5px;
+    text-transform: capitalize ;
+}
